@@ -1,0 +1,578 @@
+[
+    {
+        "Company":"Agora Training Services",
+        "Department ID":"aac597be-fa2c-48e0-8077-e1330c0ae964"
+    },
+    {
+        "Company":"Agora Training Services - KREW",
+        "Department ID":"02e25e58-9381-4c74-a52d-90cf64f1e188"
+    },
+    {
+        "Company":"Alam Alsahara Training Company - KREW",
+        "Department ID":"8837a43e-7e7e-4482-96e5-6535af231d36"
+    },
+    {
+        "Company":"Alpha Drilling",
+        "Department ID":"193b1bdf-533d-486d-9ad2-50db89ecc48c"
+    },
+    {
+        "Company":"Alpha Drilling - KREW",
+        "Department ID":"6af19896-53b8-4ef6-a557-9abb0731231c"
+    },
+    {
+        "Company":"Amelco",
+        "Department ID":"e8b3de2f-4c86-437d-8f7a-2edf9e7b56b0"
+    },
+    {
+        "Company":"Amelco - KREW",
+        "Department ID":"a059644d-1b79-428a-afdf-4822f7073a35"
+    },
+    {
+        "Company":"American Well Control Academy",
+        "Department ID":"b9e5b57c-e8b9-42f2-b4ad-29901b630f2b"
+    },
+    {
+        "Company":"American Well Control Academy - KREW",
+        "Department ID":"cac3d861-a5cb-4cdd-bd3d-e0f6a70d7437"
+    },
+    {
+        "Company":"Badlands Integrity Group",
+        "Department ID":"b556eff2-d271-45a7-a982-cace5f388ebc"
+    },
+    {
+        "Company":"BP",
+        "Department ID":"451082fa-a3a0-4193-a8ca-dff7a596abb0"
+    },
+    {
+        "Company":"BP - KREW",
+        "Department ID":"6518cec3-7eac-423d-96d6-ca23f0b78fc2"
+    },
+    {
+        "Company":"Cactus Drilling",
+        "Department ID":"f904ed45-1732-4b61-be69-29e0dac5c7ee"
+    },
+    {
+        "Company":"Cactus Drilling - KREW",
+        "Department ID":"785a0619-ef2a-4712-b432-91d511023798"
+    },
+    {
+        "Company":"Capacitpetrolium",
+        "Department ID":"3b78ada3-9c69-470c-91dc-db4d11fc6c11"
+    },
+    {
+        "Company":"Capacitpetrolium - KREW",
+        "Department ID":"6f060b60-09bd-48c9-b43c-16c15dac5495"
+    },
+    {
+        "Company":"Caroil Training Services",
+        "Department ID":"dcb3cb5b-cb84-44e9-b770-d6b0c64b848f"
+    },
+    {
+        "Company":"Chevron",
+        "Department ID":"f5ca8942-72a8-467f-8ae0-c966e8ff94f4"
+    },
+    {
+        "Company":"Chevron - KREW",
+        "Department ID":"d792621a-d1ac-4df4-a190-58822990d19a"
+    },
+    {
+        "Company":"Crewpetro - KREW",
+        "Department ID":"9582fdf4-e932-425e-b6f6-d14e3732c4e3"
+    },
+    {
+        "Company":"DEMO - KREW & WSL",
+        "Department ID":"cf4d5410-be90-4479-9b82-3452f456a23c"
+    },
+    {
+        "Company":"Dolphin HR",
+        "Department ID":"fa1dc7fd-05bc-4dd9-9062-47ffe48caa20"
+    },
+    {
+        "Company":"Dolphin HR - KREW",
+        "Department ID":"a7d4ba72-e069-4e49-ba2c-827fdd611355"
+    },
+    {
+        "Company":"Egyptian Drilling Skills - KREW",
+        "Department ID":"d70b1b16-8719-4d2a-9110-2eb27b680fa9"
+    },
+    {
+        "Company":"Endeavor",
+        "Department ID":"82f0f74f-e956-4388-8258-ae1747dced95"
+    },
+    {
+        "Company":"Entrac Petroleum",
+        "Department ID":"d4c5ea0a-9486-46f4-891f-c9fdbc419d16"
+    },
+    {
+        "Company":"Entrac Petroleum - KREW",
+        "Department ID":"14ac4a51-596d-4c19-817d-5ad5739b50eb"
+    },
+    {
+        "Company":"Exxon-KREW",
+        "Department ID":"e2caaf5d-8ea1-4f53-b6d3-bf83ce8619f1"
+    },
+    {
+        "Company":"ExxonMobil",
+        "Department ID":"93019562-7de0-4536-8a04-866942aac1eb"
+    },
+    {
+        "Company":"Falcon Multi Services",
+        "Department ID":"7b1c9375-1614-4f86-ba29-6bf054631a18"
+    },
+    {
+        "Company":"Falcon Multi Services - KREW",
+        "Department ID":"2a8c1a8d-ebe0-4ee4-83d1-697e490b6354"
+    },
+    {
+        "Company":"Gulf Technical and Safety Training Centre (GTSC)",
+        "Department ID":"2d3bb6ac-4465-457a-8403-86ca92e2615b"
+    },
+    {
+        "Company":"Gulf Technical and Safety Training Centre (GTSC) - KREW",
+        "Department ID":"1bcf2c24-82cb-4e8e-a6dc-6f7caee391b3"
+    },
+    {
+        "Company":"H&P",
+        "Department ID":"b4cbb264-a95d-498a-b21d-6fc44c2a496b"
+    },
+    {
+        "Company":"Hess",
+        "Department ID":"3f37aa17-fa4b-4956-a085-d621ce8331bf"
+    },
+    {
+        "Company":"IADC",
+        "Department ID":"389c36b7-502c-4ea3-8471-6c1422c0554a"
+    },
+    {
+        "Company":"IAS International",
+        "Department ID":"593348b0-07ff-4960-b90d-06a10c62c6a7"
+    },
+    {
+        "Company":"IAS International - KREW",
+        "Department ID":"7caa329f-492e-4f32-8712-b2b462b926a9"
+    },
+    {
+        "Company":"IMEX International",
+        "Department ID":"9b43399b-aa58-46e7-85be-43c1095acf78"
+    },
+    {
+        "Company":"IMEX International - KREW",
+        "Department ID":"21254c4c-3406-4a7f-80b6-a1c9a0490644"
+    },
+    {
+        "Company":"In-Depth Drilling Solutions",
+        "Department ID":"b0566389-01bd-4c4b-b346-0df81eefdebc"
+    },
+    {
+        "Company":"In-Depth Drilling Solutions - KREW",
+        "Department ID":"db87f631-9812-490b-987b-0d9fc7a20c5f"
+    },
+    {
+        "Company":"Institute of Drilling Technology Well Control ONGC - KREW",
+        "Department ID":"c8eabf99-8e9e-4f2c-a1e2-7a73c9e21030"
+    },
+    {
+        "Company":"Instituto Tecnico del Petroleo (ITP)",
+        "Department ID":"0f50ec2a-764a-4df4-9fcd-3f5e5eed8afc"
+    },
+    {
+        "Company":"Instituto Tecnico del Petroleo (ITP) - KREW",
+        "Department ID":"405dc79f-d86c-41d5-a403-e06deb7e3d01"
+    },
+    {
+        "Company":"International Institute Of Further Education (IIFE)",
+        "Department ID":"d531c66b-e9f6-480f-9e36-0798d2975005"
+    },
+    {
+        "Company":"International Institute Of Further Education (IIFE) - KREW",
+        "Department ID":"b758c92d-bd67-4468-834c-d25a12cf0e04"
+    },
+    {
+        "Company":"International Oilfield Training Services (IOTS)",
+        "Department ID":"94326b21-68ff-4395-b346-74099ba7b6b4"
+    },
+    {
+        "Company":"International Oilfield Training Services (IOTS) - KREW",
+        "Department ID":"a12be4da-3b60-4782-91b9-2ca0251b8800"
+    },
+    {
+        "Company":"International Petroleum Center",
+        "Department ID":"2aec8502-2f8e-4c3a-9235-bd8bfcb7cde9"
+    },
+    {
+        "Company":"International Petroleum Center - KREW",
+        "Department ID":"4baa4004-ac16-4b1e-a3c0-1064404a8221"
+    },
+    {
+        "Company":"International Training Services (ITS)",
+        "Department ID":"67f785c8-356d-41d1-a2a6-ec0d88eb2f3d"
+    },
+    {
+        "Company":"International Training Services (ITS) - KREW",
+        "Department ID":"31ef08fc-2b88-4ce4-8d33-256a33e4fcf2"
+    },
+    {
+        "Company":"JF Gesti\u00f3n Integral",
+        "Department ID":"9981a190-a27c-4259-bbdc-4daf7f09e9b0"
+    },
+    {
+        "Company":"JF Gesti\u00f3n Integral - KREW",
+        "Department ID":"4b314c9f-d045-4ff0-846e-cf0ec00a7e23"
+    },
+    {
+        "Company":"Landmark Safety, LLC",
+        "Department ID":"357f9e26-555f-4b97-9d76-c21ec738ccf2"
+    },
+    {
+        "Company":"Latshaw",
+        "Department ID":"326c8aa9-79ff-4aff-8fbf-747d54143b0b"
+    },
+    {
+        "Company":"Latshaw - KREW",
+        "Department ID":"c6fad322-6cee-4ccc-8a2a-e6346f747091"
+    },
+    {
+        "Company":"Learn To Drill",
+        "Department ID":"25e08678-e269-45f3-969a-e4e200822894"
+    },
+    {
+        "Company":"Maersk",
+        "Department ID":"4a01beba-76b5-421d-a596-3ee60cdb917c"
+    },
+    {
+        "Company":"Maersk - KREW",
+        "Department ID":"3e3794d2-741e-4507-b0ed-3d707a8631d5"
+    },
+    {
+        "Company":"Malaga Drilling School",
+        "Department ID":"76babd41-a81c-4a0e-8a23-dff9f7f36f9d"
+    },
+    {
+        "Company":"Malaga Drilling School - KREW",
+        "Department ID":"c4bd3d7d-8535-469b-86e9-6cbc5640325c"
+    },
+    {
+        "Company":"Moxie Media",
+        "Department ID":"f1885552-cc56-44bc-bdbc-65b3285f1695"
+    },
+    {
+        "Company":"Murchison Drilling Schools",
+        "Department ID":"5c5ec5dc-0e1c-4aae-a545-b8db9ffed4a3"
+    },
+    {
+        "Company":"Murchison Drilling Schools - KREW",
+        "Department ID":"8f7367a1-c40c-4f19-ba8a-b3fdfc9ea136"
+    },
+    {
+        "Company":"Naaqwa",
+        "Department ID":"e1450f9b-0a10-4e0f-9102-13e62a897875"
+    },
+    {
+        "Company":"Naaqwa - KREW",
+        "Department ID":"db273b75-d23b-40b6-b7de-0d0c346873ac"
+    },
+    {
+        "Company":"Nabors",
+        "Department ID":"9bdb1011-de31-415f-92f9-2776e8613f1a"
+    },
+    {
+        "Company":"Nabors - KREW",
+        "Department ID":"0a48f4aa-3727-42e7-b3b6-d6caad03b4e3"
+    },
+    {
+        "Company":"Neft Energies",
+        "Department ID":"50723c62-331c-491a-ab3f-8e8b1a48687f"
+    },
+    {
+        "Company":"Neft Energies - KREW",
+        "Department ID":"37a1ee4c-2200-4076-9add-2b161a66e5df"
+    },
+    {
+        "Company":"Noble Corp.",
+        "Department ID":"3149282a-a1c6-4c75-a9b0-1efd38f2311b"
+    },
+    {
+        "Company":"Noble Drilling",
+        "Department ID":"1ca6f0ae-3af1-4440-ad07-0efbbf5a1736"
+    },
+    {
+        "Company":"Noble Drilling - KREW",
+        "Department ID":"13ec6c92-e5e0-47e0-8179-8c65b9b4d955"
+    },
+    {
+        "Company":"Occidental Petroleum",
+        "Department ID":"a73e6e03-bf68-438a-a5db-9db78bf52dc2"
+    },
+    {
+        "Company":"Occidental Petroleum - KREW",
+        "Department ID":"cf58a0cf-287b-43c3-98f0-e42e3441ca7c"
+    },
+    {
+        "Company":"Omega Evaluation Center",
+        "Department ID":"15e83570-07db-44fa-965c-d1b625952131"
+    },
+    {
+        "Company":"Pan American Energy",
+        "Department ID":"378426c6-0c29-4780-a8b4-d62938806d4e"
+    },
+    {
+        "Company":"Pan American Energy - KREW",
+        "Department ID":"79c17735-f779-4d77-966f-fb28eb9acec1"
+    },
+    {
+        "Company":"Parker Drilling",
+        "Department ID":"5607173c-7cd4-43fa-85eb-46a6f6a8ec27"
+    },
+    {
+        "Company":"Parker Drilling - KREW",
+        "Department ID":"69996dc6-0c1e-4df3-b3e1-16a7b8fdd6dc"
+    },
+    {
+        "Company":"Patterson UTI Drilling Co. LLC",
+        "Department ID":"7187f958-d020-4b25-8119-6dbf03653805"
+    },
+    {
+        "Company":"Petro Energy - KREW",
+        "Department ID":"7db4d099-57e2-48b5-a7d7-db3fea57a0fa"
+    },
+    {
+        "Company":"Petroleum Training Services (PTS) - KREW",
+        "Department ID":"18768b36-88a6-4100-a1a8-0001f5efeaf8"
+    },
+    {
+        "Company":"Precision Drilling",
+        "Department ID":"722a2ca2-e349-499f-9963-bfdbd117168d"
+    },
+    {
+        "Company":"Q-Training",
+        "Department ID":"1ade8d55-27a6-4d05-8875-b4fac6af7584"
+    },
+    {
+        "Company":"Q-Training - KREW",
+        "Department ID":"3a2be779-1251-4341-a9de-32ad93cb0d76"
+    },
+    {
+        "Company":"Quintana",
+        "Department ID":"aecbf44a-fa16-4ab1-a9c8-4dd337a53b30"
+    },
+    {
+        "Company":"Quintana - KREW",
+        "Department ID":"dc82ba25-9c04-42a3-a59d-6f29b20c4a95"
+    },
+    {
+        "Company":"Rainbow Star Training Services - KREW",
+        "Department ID":"fb423dce-bb07-4bd4-aa6d-bb1f24b1de49"
+    },
+    {
+        "Company":"RelyOn NuTec",
+        "Department ID":"33e05945-61ac-4177-b69d-5affdf11667e"
+    },
+    {
+        "Company":"RelyOn NuTec - KREW",
+        "Department ID":"e4c5d85d-b2a1-4e78-ab27-df697ab77d49"
+    },
+    {
+        "Company":"Rig Up",
+        "Department ID":"70332e41-19b7-47c6-83a7-847e90362ebe"
+    },
+    {
+        "Company":"Rig Up - KREW",
+        "Department ID":"3c7ac904-861a-4d07-b356-cf9acb4dd6ab"
+    },
+    {
+        "Company":"Rig World",
+        "Department ID":"2f956335-aa3b-41b6-b544-140801b2a1a1"
+    },
+    {
+        "Company":"Rig World - KREW",
+        "Department ID":"a51cd539-0b8d-4b42-9ac8-248b08e7958c"
+    },
+    {
+        "Company":"RigLine 247 Training Services",
+        "Department ID":"18d649a9-c310-42f4-980e-d5644a62303f"
+    },
+    {
+        "Company":"RigLine 247 Training Services - KREW",
+        "Department ID":"f846431c-fba8-415b-a12b-c7e52c9323ad"
+    },
+    {
+        "Company":"Safety 247",
+        "Department ID":"8a8a5a67-1843-4857-8174-58f38ad2dabe"
+    },
+    {
+        "Company":"Safety 247 - KREW",
+        "Department ID":"71addd55-debc-4957-a11f-f5851b10e911"
+    },
+    {
+        "Company":"SAIPEM",
+        "Department ID":"99b614c2-96a4-4cc2-bea3-47f31719ccbd"
+    },
+    {
+        "Company":"SAIPEM - KREW",
+        "Department ID":"18a4a463-4f6e-4887-a6cc-d3978868cc8e"
+    },
+    {
+        "Company":"San Juan College",
+        "Department ID":"653b92d3-84c6-4932-9815-06050df5f6be"
+    },
+    {
+        "Company":"San Juan College - KREW",
+        "Department ID":"6b44e392-f7f8-4737-9cbe-dd2472f694e4"
+    },
+    {
+        "Company":"SAS Alkhobar Training Center - KREW",
+        "Department ID":"b68f6c04-806e-4b2c-a7d8-46e2c8b6d772"
+    },
+    {
+        "Company":"Screenshots",
+        "Department ID":"9261acfd-39f4-4a02-a88d-2c7fe81d44c8"
+    },
+    {
+        "Company":"Seed Business Group - KREW",
+        "Department ID":"3b235d33-9e69-4b40-a44d-a3bc4e82230c"
+    },
+    {
+        "Company":"Shelf Drilling",
+        "Department ID":"a5601c2b-ef9d-4cf2-9247-ae35152dd25e"
+    },
+    {
+        "Company":"Shelf Drilling - KREW",
+        "Department ID":"01ef7ecc-7697-4d86-bb06-995eb4d65a2b"
+    },
+    {
+        "Company":"Sinopec Training Center",
+        "Department ID":"c658edda-8395-4979-9b0a-250058910d68"
+    },
+    {
+        "Company":"Sinopec Training Center - KREW",
+        "Department ID":"8ab39545-3a4c-46ab-9dd1-784582da9408"
+    },
+    {
+        "Company":"Smith Mason & Co.",
+        "Department ID":"a543eec7-c560-4b5f-934e-e4c68b704bdd"
+    },
+    {
+        "Company":"Smith Mason & Co. - KREW",
+        "Department ID":"b896f755-994e-4858-9e15-d2d3b07584da"
+    },
+    {
+        "Company":"Tamkene",
+        "Department ID":"0c42765f-ea40-4589-92a9-aba70a3c3765"
+    },
+    {
+        "Company":"Tamkene - KREW",
+        "Department ID":"167e52c8-b3ad-4e5c-9564-cf01c7057e41"
+    },
+    {
+        "Company":"TEST",
+        "Department ID":"582030f9-ac88-4709-8d2a-c3ae8afe5a5b"
+    },
+    {
+        "Company":"Texas A&M University (TAMU)",
+        "Department ID":"dc3b7a1c-64fd-4444-b7cd-5d0317cf5701"
+    },
+    {
+        "Company":"Training Consultors",
+        "Department ID":"88c5cdac-c49e-40c2-8add-5532d5796cc3"
+    },
+    {
+        "Company":"Training Consultors - KREW",
+        "Department ID":"ede2a30c-ab6d-45ff-bc30-a99bc9feb5c0"
+    },
+    {
+        "Company":"University of Alaska",
+        "Department ID":"7598c3d0-cd04-4538-87eb-d96f597a0218"
+    },
+    {
+        "Company":"University of Alaska - KREW",
+        "Department ID":"0588edf9-d7b5-43a7-b9b4-ed7e5459cd23"
+    },
+    {
+        "Company":"Valaris",
+        "Department ID":"60e8e4fb-089a-4744-91ed-3057f4eeb51b"
+    },
+    {
+        "Company":"Valaris - KREW",
+        "Department ID":"333247e8-ba79-4952-8555-90ccf47c1285"
+    },
+    {
+        "Company":"Velesto Energy",
+        "Department ID":"5b93a202-74bc-4677-8366-263e8245061e"
+    },
+    {
+        "Company":"Velesto Energy - KREW",
+        "Department ID":"d8224ad8-cf67-4d1c-ac89-6cae3d00ea63"
+    },
+    {
+        "Company":"Vorenkamp Well Control Training (VWCT)",
+        "Department ID":"163c376d-9a34-4294-92cd-2df04fe2d0c7"
+    },
+    {
+        "Company":"Vorenkamp Well Control Training (VWCT) - KREW",
+        "Department ID":"ec78086f-db49-4fe7-9fc3-fccfea8b80ee"
+    },
+    {
+        "Company":"Well Academy",
+        "Department ID":"96f4bf37-c736-41f5-807b-938717f8a812"
+    },
+    {
+        "Company":"Well Academy - KREW",
+        "Department ID":"17d522ee-e2b9-450d-8bc5-6587cf374e3d"
+    },
+    {
+        "Company":"Well Control Group",
+        "Department ID":"0204b4f9-4e99-4380-9d1a-ea8d99882fe2"
+    },
+    {
+        "Company":"Well Control Group - KREW",
+        "Department ID":"2050eca8-f4dd-4ae6-8b7c-fd866419ebe7"
+    },
+    {
+        "Company":"Well Control International (WCI)",
+        "Department ID":"8f21b3da-08bb-43d7-82a0-f08e2f05534e"
+    },
+    {
+        "Company":"Well Control International (WCI) - KREW",
+        "Department ID":"2ed96525-898c-4b09-8151-ce86e710ff43"
+    },
+    {
+        "Company":"Well Control School",
+        "Department ID":"fde634e5-b7ae-42f7-b151-d7e370556738"
+    },
+    {
+        "Company":"Well Control School - KREW",
+        "Department ID":"031f96a1-6f61-473b-b02c-0882630ab538"
+    },
+    {
+        "Company":"Wellcon Treinamento e Consultoria",
+        "Department ID":"1d4e2816-6d9b-4e52-912a-8101a787c54d"
+    },
+    {
+        "Company":"Wellcon Treinamento e Consultoria - KREW",
+        "Department ID":"fcfea2bc-0953-4586-875b-7285d14c78f7"
+    },
+    {
+        "Company":"Wild Well",
+        "Department ID":"3161658e-e9be-44e6-a19d-c8590a48f617"
+    },
+    {
+        "Company":"Wild Well - KREW",
+        "Department ID":"2dffc687-3d19-4578-8a2f-37a7541276a7"
+    },
+    {
+        "Company":"WorkRise",
+        "Department ID":"64964e66-d5f6-4cac-9aee-5345eff2f886"
+    },
+    {
+        "Company":"WorkRise - KREW",
+        "Department ID":"87d89140-071a-4477-ad5a-35b349fb1f86"
+    },
+    {
+        "Company":"Xcel Safety Training Solutions",
+        "Department ID":"1f89a707-38f3-407d-b226-c9f7cfb17f50"
+    },
+    {
+        "Company":"Xcel Safety Training Solutions - KREW",
+        "Department ID":"1ff17188-e254-4139-bc9c-53ab8a6dd754"
+    }
+]
