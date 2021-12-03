@@ -2,6 +2,7 @@
 import xml.etree.ElementTree as ET
 import os
 import re
+import in_place
 
 
 
@@ -22,7 +23,7 @@ def writeXMLToFile(filename, old = "SUBSEA", new = "SURFACE", inplace=False):
 		turnOffSubsea(xml_str)
 		removeRiserDrillPlanSegments(xml_str)
 		adjustInitialAnnulusStartatSection(xml_str)
-		if filename.tolower().__contains__("dsav"):
+		if filename.lower().__contains__("dsav"):
 			resizeRiserVector4Segments(xml_str)
 		changeRigType(xml_str)
 
@@ -40,8 +41,12 @@ def writeXMLToFile(filename, old = "SUBSEA", new = "SURFACE", inplace=False):
 	# adding the CSCS stuff back into the save game
 	try:
 		fixCSCS(filename, filename_out)
-	except AttributeError:
-		print(f"skipping {filename_out} beceause there is no CSCS stuff")
+	except AttributeError: 
+		"""a module or save will not load if the cscs does not have the CDATA portion within it"""
+		old = "<cscsScript />"
+		new = "<cscsScript><![CDATA[]]></cscsScript>"
+		secondPassCSCS(filename_out, old, new)
+
 
 def removeStrata(tree, name):
 	""" Removes a strata from WebFormation by passing the name of the formation """
@@ -125,6 +130,19 @@ def fixCSCS(file_in, file_out):
 	a = a.replace(old, new)
 	with open(file_out, "w") as fuck:
 		fuck.write(a)
+
+
+def secondPassCSCS(file_out, old, new, flags=0):
+		"""open file_out, read the file line by line looking for the 
+		desired line and replace it. write the contents back to the file"""
+		print(file_out)
+		with open(file_out, "r+") as file:
+			a = file.read()
+			text_pattern = re.compile(re.escape(old), flags)
+			a = text_pattern.sub(new, a)
+			file.seek(0)
+			file.truncate()
+			file.write(a)
 
 
 def parseFolderforSaves(folder):
