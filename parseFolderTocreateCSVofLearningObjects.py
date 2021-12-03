@@ -31,7 +31,7 @@ def parseFolderForGoogle(folder):
                 learningObjLink = f'https://broker.endpoints.service-project-us-prod-1a95.cloud.goog?app=drilling-simulator&drillSimFile={moduleId}'
                 # csv_list.append([filename, f'**Google Link**\n{moduleId}\n**Learning Object**\n{learningObjLink}', 'NewSavesforIADC'])
                 csv_list.append([f'{learningObjLink}'])
-    with open('googleImport.csv', 'w+', newline='') as file:
+    with open('D:\modulesAndSaves\googleImport.csv', 'w+', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(csv_list)
 
