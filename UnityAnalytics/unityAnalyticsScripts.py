@@ -1,12 +1,13 @@
 import gzip, json, pandas, csv, os, datetime
 from json.decoder import JSONDecodeError
 
-outfile = 'Usage/1.json'
-infile  = 'Usage/2.json'
-outfile_2 = 'Usage/3.json'
-csvfile = 'Usage/1.csv'
-csvfile_2 = 'Usage/2.csv'
-error_file = 'Usage/error_log.csv'
+outfile = "D:/pythonTools/UnityAnalytics/Usage/1.json"
+infile = "D:/pythonTools/UnityAnalytics/Usage/2.json"
+outfile_2 = "D:/pythonTools/UnityAnalytics/Usage/3.json"
+csvfile = "D:/pythonTools/UnityAnalytics/Usage/1.csv"
+csvfile_2 = "D:/pythonTools/UnityAnalytics/Usage/2.csv"
+error_file = "D:/pythonTools/UnityAnalytics/Usage/error_log.json"
+path = "D:/pythonScripts/UnityAnalytics/Usage/companySpecificData"
 count = 0
 
 def parseFoldersToWorkOnFiles(folder):
@@ -156,10 +157,10 @@ def findAndReplace(infile,outfile):
     f.write(s)
     f.close()
 
-def outputtoFile_companySpecific(dictionary):
+def outputtoFile_companySpecific(path, dictionary):
     """take the dictionary and create some csv files that can be used to read who did what and for how long"""
     for departmentID in dictionary.keys():
-        fileName = "Usage/companySpecificData/" + departmentID + ".csv"
+        fileName = path + departmentID + ".csv"
         with open(fileName, 'w') as obj:
             csv_columns = ["Department ID", "User ID", "Date", "Course", "Session ID", "Time in Session (h)", "Cummulative Time (h)"]
             writer = csv.writer(obj)
@@ -177,9 +178,9 @@ def outputtoFile_companySpecific(dictionary):
                     writer.writerow(list_w)
     print('time to check the files')
 
-def outputtoFile(dictionary):
+def outputtoFile(path, dictionary):
     """take the dictionary and create some csv files that can be used to read who did what and for how long"""
-    fileName = "Usage/companySpecificData/" + 'combinedfile' + ".csv"
+    fileName = path + 'combinedfile' + ".csv"
     with open(fileName, 'w') as obj:
         csv_columns = ["Department ID", "User ID", "Date", "Course", "Session ID", "Time in Session (h)", "Cummulative Time (h)"]
         writer = csv.writer(obj)
@@ -285,14 +286,15 @@ def getUsersFromCSVandCreateDictionary(csvFile):
 
 
 """The Function Calls that I used to get the data, run them in order from top to bottom to get the final result"""
-parseFoldersToWorkOnFiles("Usage/September1_November18")
+parseFoldersToWorkOnFiles(
+    "D:/pythonScripts/UnityAnalytics/Usage\September1_November18")
 addTheThingsToMakeTheParserWork()
 addCommasInPlaces()
 addTheFileToACSV(count)
 findAndReplace(csvfile, csvfile_2)
 useageDictionary = getUsersFromCSVandCreateDictionary(csvfile_2)
-outputtoFile(dictionary=useageDictionary)
-outputtoFile_companySpecific(dictionary=useageDictionary)
+outputtoFile(path, dictionary=useageDictionary)
+outputtoFile_companySpecific(path, dictionary=useageDictionary)
 fileRenameSoAHumanCanRead("Usage/companySpecificData")
 
     
